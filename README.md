@@ -1,2 +1,2 @@
 # PythonProject
-Sample procect for Chris
+Sample project for Chris
